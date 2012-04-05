@@ -1,0 +1,6 @@
+gwt-unitCache 
+gwt-unitCache/*
+tmp
+tmp/*
+.settings
+.classpath
